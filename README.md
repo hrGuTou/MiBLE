@@ -5,7 +5,7 @@ BLE android app which pull data directly from Mi Scale
 ```
 {"Year:Month:Date:Hour:Min:Sec":{"Object":"", 
                                  "Unit":"", 
-                                 "Weight":""}
+                                 "Weight":""}}
 
 Object: 1(Object on scale)
         0(Object removed)
